@@ -12,3 +12,14 @@
     "name": "changetest"
   }
 }
+
+{
+  "SawStack": [
+    { "idx": 1, "actualWeight": 101 }
+    { "idx": 3, "actualWeight": 200 }
+    { "idx": 5, "actualWeight": 500 }
+    { "idx": 3, "actualWeight": 199 }
+    { "idx": 3, "actualWeight": 201 }
+    { "idx": 4, "actualWeight": 701 }
+  ]
+}
